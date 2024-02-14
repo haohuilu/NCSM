@@ -20,15 +20,11 @@ NCSM's versatile design makes it suitable for a wide range of applications, incl
 - Drug discovery
 - Social network recommendations
 
-## Getting Started
-To begin using NCSM in your link prediction projects, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed in `requirements.txt`.
-3. Follow the examples provided in the `examples` directory to see how the model can be applied to different datasets.
 
 ## Requirements
 - Python 3.x
 - PyTorch
+- PyTorch geometric
 - NetworkX
 - Scikit-learn
 
